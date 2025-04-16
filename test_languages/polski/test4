@@ -1,0 +1,7 @@
+W przypadku korzystania z protokołu PPP (i jego wariantów) do zestawienia połączenia punkt-punkt, np. do połączenia z dostawcą Internetu (ISP) można zastosować protokół DHCP do ustalenia adresów IP, o ile zastosuje się odpowiednie identyfikatory klienta DHCP (na łączu PPP nie stosuje się adresów MAC).
+
+Do ustalania adresów IP na łączu służy przede wszystkim protokół IPCP, więc w typowym przypadku (ustalenie adresów IP maszyny) nie zachodzi potrzeba wykorzystania DHCP. Protokół IPCP posiada rozszerzenie[3], dzięki któremu możliwe jest przekazanie informacji o serwerach DNS i NetBIOS.
+
+W przeciwieństwie do protokołu DHCP, komputery na łączu PPP są równoważne, to znaczy nie ma odróżnienia klienta pobierającego adres i serwera przydzielającego adres. Może być np. tak, że strona inicjująca połączenie PPP proponuje adres IP drugiej stronie.
+
+Porty

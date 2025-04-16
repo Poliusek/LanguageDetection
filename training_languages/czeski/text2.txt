@@ -1,0 +1,4 @@
+Kategorie, přesněji taxonomická kategorie (anglicky taxonomic rank), též klasifikační kategorie je abstraktní termín používaný v taxonomii (biologie). Obecně označuje postavení taxonu v taxonomické hierarchii, jinými slovy úroveň v hierarchické klasifikaci.
+V Mezinárodním kódu botanické nomenklatury a Mezinárodních pravidlech zoologické nomenklatury se označuje termínem klasifikační úroveň (anglicky rank). Anglický pojem „ranking“ pak znamená zařazení určitého taxonu do klasifikační (kategoriální) úrovně.
+Taxony zařazené do určité kategorie jsou konkrétní skupiny skutečných organismů na nějaké klasifikační úrovni.
+Zásadami pro pojmenování jednotlivých taxonů se zabývá biologická nomenklatura.

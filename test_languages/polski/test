@@ -1,0 +1,7 @@
+W standardzie 10Base-T nie określono limitu długości kabla. Zamiast tego standaryzacji poddano parametry, które musi spełniać połączenie sieciowe. W efekcie standardowa, nieekranowana skrętka daje zasięg do około 110 metrów (niektóre źródła podają również wartość 105 metrów). Kable wysokiej jakości mogą pracować na odcinkach o długości 150 metrów lub dłuższych. Właściwości połączenia można sprawdzić odpowiednim testerem. W przeciwieństwie do 10BASE2 awaria kabla w jednym miejscu powodowała zanik dostępu do sieci tylko jednego komputera dlatego 10Base-T wyparł 10Base2.
+
+FOIRL (ang. Fiber-optic inter-repeater link) – pierwotny standard Ethernetu za pomocą światłowodu.
+10BASE-F – rodzina standardów 10BASE-FL, 10BASE-FB i 10BASE-FP Ethernetu; łączenie za pomocą światłowodu.
+10BASE-FL – ulepszony standard FOIRL. Jedyny z szeroko stosowanych z rodziny 10BASE-F.
+10BASE-FB – przeznaczony do łączenia hubów lub switchy; przestarzały.
+10BASE-FT – do sieci nie wymagających elementów aktywnych (hubów, switchy); łączenie za pomocą światłowodu; nigdy nie zaimplementowany.

@@ -1,0 +1,8 @@
+Les adresses IP dynamiques sont octroyées pour une durée limitée (durée du bail, ou lease time), qui est transmise au client dans l’accusé de réception qui clôt la transaction DHCP.
+
+La valeur T1 (par défaut, 50 % de la durée du bail) qui l’accompagne détermine la durée après laquelle le client commence à demander périodiquement le renouvellement de son bail auprès du serveur qui lui a accordé son adresse. Cette fois, la transaction est effectuée par transmission IP classique, d’adresse à adresse.
+
+Si, lorsque le délai fixé par la deuxième valeur, T2 (par défaut, 87,5 % de la durée du bail), est écoulé et que le bail n’a pas pu être renouvelé (par exemple, si le serveur DHCP d’origine est hors service), le client demande une nouvelle allocation d’adresse par diffusion.
+Lorsque le serveur DHCP et le client ne figurent pas sur le même segment Ethernet, les diffusions émises par ce dernier ne parviennent pas au serveur parce que les routeurs ne transmettent pas les diffusions générales (broadcast). Dans ce cas, on utilise un agent de relais DHCP.
+
+L'hôte particulier qui contient l'agent relais est configuré avec une adresse IP statique, et lors de la configuration de l'agent, on indique l’adresse d’un serveur DHCP auquel il faudra transmettre les découvertes DHCP qui lui parviennent sur le port 67 (écouté par le programme agent de relais). Il diffuse sur son segment (qui est aussi celui du client) les réponses qu’il reçoit du serveur DHCP.

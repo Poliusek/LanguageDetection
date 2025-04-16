@@ -1,0 +1,10 @@
+UDP est un protocole de la couche de transport documenté dans la RFC 768. Il ne fournit pas de garantie au protocole de la couche supérieure quant à la livraison du message. De plus, la couche UDP ne retient pas d'information quant à l'état des messages UDP une fois envoyés. Pour ces raisons, on désigne UDP comme un protocole de transmission non fiable[2].
+
+Une liste de propriétés rendent UDP particulièrement adapté à certaines applications.
+
+Il est orienté transaction, et donc adapté aux protocoles simples de type requête-réponse tels le DNS ou le NTP.
+Il fournit des datagrammes, utiles pour modéliser d'autres protocoles tel que le tunnelage IP (en) ou le Remote procedure call, ainsi que le Network File System.
+Il est très simple, ce qui le rend adapté pour l'amorçage d'une machine cliente depuis le réseau (bootstrapping) ou d'autres usages sans pile de protocoles complète, tels DHCP et le protocole simplifié de transferts de fichiers (TFTP).
+Il est dit sans état, ce qui est utile dans des cas où de nombreux clients sont présents, telles les applications de streaming (La télévision IP, par exemple).
+L'absence de délai de retransmission en fait un protocole utile pour les applications en temps réel. Quelques exemples de ces applications sont la voix sur IP, les jeux en ligne, et de nombreux protocoles construits sur base du Real Time Streaming Protocol.
+Il fonctionne efficacement dans des communications unidirectionnelles et est donc adapté pour diffuser des informations comme dans le service discovery (en) ou le protocole d'information de routage.

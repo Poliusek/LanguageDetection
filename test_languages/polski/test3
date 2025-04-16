@@ -1,0 +1,7 @@
+                                                                                                                                               Fundacja Internet Systems Consortium opracowała serwer DHCP w wersji 1.0.0 dla systemów Unix. ISC DHCP został wydany 6 grudnia 1997, a w 1999 pojawiła się wersja 2.0, bardziej zgodna ze specyfikacją[2].
+
+W dystrybucjach Linuksa serwer ISC DHCP jest zwykle dostępny w pakiecie pod nazwą dhcpd (ang. Dynamic Host Configuration Protocol Daemon).
+
+Korporacja Cisco opracowała własny serwer DHCP dla systemu IOS 12.0 w roku 1999. System operacyjny Solaris firmy Sun został wyposażony w pełną obsługę protokołu w roku 2001.
+
+Niektórzy producenci routerów rozszerzyli ich możliwości o obsługę serwera DHCP.

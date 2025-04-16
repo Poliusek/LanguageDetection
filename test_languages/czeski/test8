@@ -1,0 +1,7 @@
+Směrovací protokol multicast s vektorem vzdálenosti DVMRP
+Protokol používá reverzní techniku zaplavování cesty. Je definován v RFC 1075 a je základem pro páteřní IP síť. Protokol má některé nedostatky, např. špatně se přizpůsobuje škálování sítě, což má za následek násobné zaplavování, hlavně u verzí bez pročisťovacího algoritmu. Zpětné zaplavování cesty vyžaduje, aby směrovač odeslal kopii paketu při jeho přijetí do všech cest. Poté směrovač odešle zpět zprávu ke zdroji, aby zastavil datový tok, pokud je směrovač napojen na LAN, jenž si nepřeje přijímat data příslušné skupiny s přenosem multicast.
+
+Další metody DVMRP protokolu:
+
+Opětovné zaplavování, kdy DVMRP směrovače periodicky znovu zaplavují síť, s cílem dosáhnout žádaného nového hostitele. Zaplavovací mechanismus bere v úvahu frekvenci a dobu zaplavování, nutnou pro nového člena skupiny multicast, aby mohl zahájit příjem skupinového datového toku.
+DVMRP unicast se používá ke stanovení rozhraní, které vede zpět ke zdroji datového toku.

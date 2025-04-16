@@ -1,0 +1,8 @@
+Druh (species, zkratka sp.) je základní kategorie biologické nomenklatury. Z taxonomického hlediska je druh jeden z taxonů: je nejnižší základní kategorií hierarchické klasifikace organismů (viz obr.).[1]
+Právě z binominálního (latinské binomen = dvě jména) pojmenování druhů vychází biologická nomenklatura, která stanoví zásady pro pojmenování ostatních nižších i vyšších taxonů.[pozn. 1] Označuje organismy dvouslovným vědeckým názvem, ke kterému je v případě potřeby připojeno jméno autora názvu (tzn. jméno taxonoma čili toho, kdo organismus jako první platně popsal a pojmenoval), případně zkrácená forma jména, a rok popisu, přičemž rokem popisu se myslí rok, kdy byl popis publikován. Příklady:
+Elephas maximus Linné, 1758 (tzn. slon indický popsaný Linnéem v roce 1758).[1]
+Capparis spinosa L., 1753 (tzn. kapara trnitá popsaná Linnéem v roce 1753).
+Coccinella novemnotata Herbst, 1793 (tzn. slunéčko devítiskvrnné popsané Herbstem v roce 1793).
+Siven americký se jmenuje podle Ameriky nikoli podle křestního jména jejího objevitele Ameriga Vespucciho. Druhové rozdíly musí zůstat obecné (X siven Bertíkův, Petříkův apod.). Pouze jména jednotlivin se mohou měnit a sdílet tyto obecné druhové rozdíly.
+Jména kompilátorů se píší do závorky.
+Z hlediska taxonomie se druhy seskupují do rodů (genus). Některé druhy (species) se člení na poddruhy (subspecies, zkratka subsp., ssp.).

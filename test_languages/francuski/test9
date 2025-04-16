@@ -1,0 +1,8 @@
+Lorsque le serveur DHCP et le client ne figurent pas sur le même segment Ethernet, les diffusions émises par ce dernier ne parviennent pas au serveur parce que les routeurs ne transmettent pas les diffusions générales (broadcast). Dans ce cas, on utilise un agent de relais DHCP.
+
+L'hôte particulier qui contient l'agent relais est configuré avec une adresse IP statique, et lors de la configuration de l'agent, on indique l’adresse d’un serveur DHCP auquel il faudra transmettre les découvertes DHCP qui lui parviennent sur le port 67 (écouté par le programme agent de relais). Il diffuse sur son segment (qui est aussi celui du client) les réponses qu’il reçoit du serveur DHCP.
+Lorsque le serveur DHCP et le client ne figurent pas sur le même segment Ethernet, les diffusions émises par ce dernier ne parviennent pas au serveur parce que les routeurs ne transmettent pas les diffusions générales (broadcast). Dans ce cas, on utilise un agent de relais DHCP.
+
+L'hôte particulier qui contient l'agent relais est configuré avec une adresse IP statique, et lors de la configuration de l'agent, on indique l’adresse d’un serveur DHCP auquel il faudra transmettre les découvertes DHCP qui lui parviennent sur le port 67 (écouté par le programme agent de relais). Il diffuse sur son segment (qui est aussi celui du client) les réponses qu’il reçoit du serveur DHCP.
+des clauses sur les créations produites avec leurs logiciels : interdiction de créer des contenus avec le logiciel disant du mal de l'éditeur ou copyright automatique sur les œuvres créées avec leurs logiciels ;
+des clauses sur la modification unilatérale du contrat sans remise en cause de l'agrément. AOL a perdu un procès pour l'avoir utilisée.

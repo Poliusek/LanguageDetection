@@ -1,0 +1,3 @@
+Windows 2000, 98 ne gèrent pas nativement IPv6 (à l’inverse de Windows Vista, Windows 7 et suivants). IPv6 est disponible sous XP en entrant la commande « ipv6 install » dans un terminal Windows. Il existe plusieurs solutions pour pallier ce problème [archive] d’absence d’IPv6 notamment l’installation d’une solution libre [archive]. Un serveur DHCPv6 est disponible dans Windows Server 2008.
+
+Plusieurs clients et serveurs libres pour DHCP v4 et v6 sont disponibles pour les plates-formes BSD (FreeBSD/NetBSD/OpenBSD/Apple Mac OS X) ainsi que les plates-formes POSIX (Linux/« UNIX-like »). Là encore il convient de vérifier lesquelles gèrent IPv4 seulement ou IPv4 et IPv6.

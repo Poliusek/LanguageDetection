@@ -1,0 +1,9 @@
+Ethernet został opracowany przez Roberta Metcalfe’a w Xerox PARC, czyli ośrodku badawczym firmy Xerox i opublikowany w roku 1976. Bazuje na idei węzłów podłączonych do wspólnego medium i wysyłających i odbierających za jego pomocą specjalne komunikaty (ramki). Wszystkie węzły posiadają niepowtarzalny adres MAC.
+
+Klasyczne sieci Ethernet mają cztery cechy wspólne. Są to:
+
+format ramki,
+parametry czasowe,
+podstawowe reguły obowiązujące przy ich projektowaniu,
+proces transmisji.
+Standardem jest izolacja o wytrzymałości minimum 250 V~ między kablem a komputerem (niektóre firmy, np. 3Com, stosowały lepszą, co skutkowało dużo większą trwałością ich kart sieciowych)
